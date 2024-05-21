@@ -82,6 +82,3 @@ Contributions are welcome! To contribute to Monster Maze, follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to customize the sections further based on the specific details and requirements of your project.
