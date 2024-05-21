@@ -28,8 +28,8 @@ Monster Maze is a Java-based 2D grid game that allows players to explore the maz
 
 # Installation
 
-1) HTTPS - https://github.com/{User}/ChatFlow.git
-2) CLONE - git@github.com:{User}/ChatFlow.git
+1) HTTPS - https://github.com/{User}/Monster-Maze.git
+2) CLONE - git@github.com:{User}/Monster-Maze.git
 
 # Usage
 
