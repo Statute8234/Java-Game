@@ -1,14 +1,17 @@
 # MonsterMaze
-
-[![Java](https://img.shields.io/badge/java-brightgreen)](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html)
-[![Swing](https://img.shields.io/badge/swing-yellow)](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)
-[![Timer](https://img.shields.io/badge/timer-blue)](https://docs.oracle.com/javase/8/docs/api/java/util/Timer.html)
-[![AWT](https://img.shields.io/badge/awt-orange)](https://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html)
-[![SQL](https://img.shields.io/badge/sql-time-red)](https://docs.oracle.com/javase/8/docs/api/java/sql/Time.html)
-[![Random](https://img.shields.io/badge/random-purple)](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
-[![ArrayList](https://img.shields.io/badge/ArrayList-pink)](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
-
 Monster Maze is a Java-based 2D grid game where players navigate a maze, collect items, and battle monsters. It features random item spawns, AI for monster movements, and a simple yet engaging gameplay experience.
+
+[![Static Badge](https://img.shields.io/badge/javax.swing.*-green)](https://mvnrepository.com/artifact/javax.swing.*)
+[![Static Badge](https://img.shields.io/badge/java.awt.*-orange)](https://mvnrepository.com/artifact/java.awt.*)
+[![Static Badge](https://img.shields.io/badge/java.awt.event.*-red)](https://mvnrepository.com/artifact/java.awt.event.*)
+[![Static Badge](https://img.shields.io/badge/java.sql.Time-yellow)](https://mvnrepository.com/artifact/java.sql.Time)
+[![Static Badge](https://img.shields.io/badge/java.util.ArrayList-blue)](https://mvnrepository.com/artifact/java.util.ArrayList)
+[![Static Badge](https://img.shields.io/badge/java.util.Random-red)](https://mvnrepository.com/artifact/java.util.Random)
+[![Static Badge](https://img.shields.io/badge/java.util.TimerTask-blue)](https://mvnrepository.com/artifact/java.util.TimerTask)
+[![Static Badge](https://img.shields.io/badge/java.util.Iterator-black)](https://mvnrepository.com/artifact/java.util.Iterator)
+[![Static Badge](https://img.shields.io/badge/javax.swing.JPanel-black)](https://mvnrepository.com/artifact/javax.swing.JPanel)
+[![Static Badge](https://img.shields.io/badge/javax.swing.Timer-blue)](https://mvnrepository.com/artifact/javax.swing.Timer)
+
 
 ## Table of Contents
 
